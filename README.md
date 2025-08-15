@@ -4,7 +4,6 @@ My name is Joshua Lückers, I'm a web developer and Open Source contributor. I'm
 
 
 ## Find me on Social Media
-- Mastodon: [@JoshuaL@mastodon.social](https://mastodon.social/@JoshuaL)
-- Twitter: [JoshuaL](https://twitter.com/JoshuaL)
+- Threads: [@joshualuckers](https://www.threads.com/@joshualuckers)
 - Instagram: [joshualuckers](https://instagram.com/joshualuckers)
 - LinkedIn: [joshualuckers](https://www.linkedin.com/in/joshualuckers)
